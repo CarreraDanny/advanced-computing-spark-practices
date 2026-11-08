@@ -1,8 +1,5 @@
-# Práctica 1 – Programación MapReduce con Apache Spark (RDDs)
-
-Asignatura: **Big Data** – Computación Avanzada (MSc Informática)
-
-Práctica de introducción a Apache Spark con PySpark usando la API de **RDDs** y el modelo de programación **MapReduce**.
+# Programación MapReduce con Apache Spark (RDDs)
+Introducción a Apache Spark con PySpark usando la API de **RDDs** y el modelo de programación **MapReduce**.
 
 ## Contenido
 
