@@ -1,0 +1,16 @@
+# Archivos comprimidos
+*.7z.*
+
+# Checkpoints de Jupyter
+**/.ipynb_checkpoints/
+
+# Práctica 1: guía y copia de seguridad
+P1/Practica 1.1 - SparkRDDs.ipynb
+P1/*.bak
+
+# Dataset completo de LastFM (~1,6 GB, supera el límite de GitHub)
+P1/datos/lastfm-dataset-360K/usersha1-artmbid-artname-plays.tsv
+
+# Salidas generadas por la guía
+P1/datos/salida/
+P1/datos/salida.json/
